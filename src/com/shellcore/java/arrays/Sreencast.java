@@ -3,7 +3,7 @@ package com.shellcore.java.arrays;
 /**
  * Created by Cesar. 29/05/2017.
  */
-public class Creencast {
+public class Sreencast {
 
     public static void main(String[] args) {
         String[] maleStudents = new String[5];

@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * Created by Cesar. 29/05/2017.
  */
-public class CreencastArrayList {
+public class ScreencastArrayList {
 
     public static void main(String[] args) {
         ArrayList list = new ArrayList();
